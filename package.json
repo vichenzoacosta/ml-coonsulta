@@ -1,0 +1,23 @@
+{
+  "name": "ml-coonsulta",
+  "version": "1.0.0",
+  "description": "clon de mercado libre para DH en clase de consulta",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vichenzoacosta/ml-coonsulta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vichenzoacosta/ml-coonsulta/issues"
+  },
+  "homepage": "https://github.com/vichenzoacosta/ml-coonsulta#readme"
+}
